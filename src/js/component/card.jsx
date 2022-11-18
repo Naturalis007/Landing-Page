@@ -11,4 +11,4 @@ const Card = ({img,titulo,descripcion,color})=>{
 </div>
 }
 
-export default function Card();
+export default Card;
